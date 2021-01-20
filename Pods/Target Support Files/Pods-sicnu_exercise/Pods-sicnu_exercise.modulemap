@@ -1,0 +1,6 @@
+framework module Pods_sicnu_exercise {
+  umbrella header "Pods-sicnu_exercise-umbrella.h"
+
+  export *
+  module * { export * }
+}
